@@ -1,6 +1,6 @@
 # Dom Kirkham
 
-I'm a PhD Student at the MRC Biostatistics Unit, University of Cambridge
+I'm a Research Associate at the MRC Biostatistics Unit, University of Cambridge
 
 My research focuses on machine learning in cancer, with a particular emphasis on explainability and robustness.
 
